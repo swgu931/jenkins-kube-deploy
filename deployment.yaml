@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: <image.>
+        image: swgu931/hello-world:18
         ports:
         - containerPort: 8080
